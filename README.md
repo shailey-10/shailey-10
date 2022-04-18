@@ -21,7 +21,7 @@ const Anshum = {
                         Webmaster: "IEESBMUJ",
                         Webmaster: "MarkSoc"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am actively looking for Summer Internships"
 }
 ```
 
