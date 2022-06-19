@@ -1,6 +1,7 @@
-<h2> Hi, I'm Anshum Shailey! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Anshum Shailey!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif" width="230">
-<p><em> B.E in Computer Science at <a href="https://jaipur.manipal.edu/">Manipal University Jaipur</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Webmaster at <a href="http://marksoc.com/">MarkSoc</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em> B.E in Computer Science at <a href="https://jaipur.manipal.edu/">Manipal University Jaipur</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> National Level Hackathon Winner <a href="https://skillenza.com/challenge/bengaluru-moving-hackathon">Winner</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  </br> Worked with top startups like <a href="https://www.swiggy.com/">Swiggy</a> and <a href="https://groww.in/">Groww</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: anshumshailey](https://img.shields.io/badge/-anshumshailey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshumshailey/)](https://www.linkedin.com/in/anshumshailey/)
@@ -11,9 +12,9 @@
 
 ```javascript
 const Anshum = {
-  pronouns: "he" | "him",
+  stack: "MERN",
   code: [Javascript, Typescript, HTML, CSS, Python, Java, MongoDB, Firebase],
-  tools: [React, Redux, Node, Express, Bootstrap, Material UI, GIT],
+  freameworks | libraries : [React, Redux, Node, Express, Bootstrap, Material UI, GIT],
   Hobbies: ["chess", "badminton"],
   POR'S: {
                         Web Development Intern: "Delhi Digital Co",
