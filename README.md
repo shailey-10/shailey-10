@@ -2,6 +2,10 @@
 <img align='right' src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif" width="230">
 <p><em> B.E in Computer Science at <a href="https://jaipur.manipal.edu/">Manipal University Jaipur</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> National Level Hackathon Winner <a href="https://skillenza.com/challenge/bengaluru-moving-hackathon">Winner</a><img src="https://media4.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif?cid=790b7611jvg3kjwlatr4u5fg01ob0w3ifnngqgqruyzekghb&rid=giphy.gif&ct=s" width="30"> 
   </br> Worked with top startups like <a href="https://www.swiggy.com/">Swiggy</a> and <a href="https://groww.in/">Groww</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  </br>Brngalury Government Certified Tech Traffic Solution<img src="https://media1.giphy.com/media/sT7eMIqUXhxmitU5Xj/giphy.gif?cid=ecf05e47o6l000juyk3z0a11hr71m8nfxz0x0egqwzshx2ph&rid=giphy.gif&ct=s" width="30"> 
+  
+  
+  
 </em></p>
 
 [![Linkedin: anshumshailey](https://img.shields.io/badge/-anshumshailey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshumshailey/)](https://www.linkedin.com/in/anshumshailey/)
@@ -22,10 +26,10 @@ const Anshum = {
                         Webmaster: "IEESBMUJ",
                         Webmaster: "MarkSoc"
                       },
- challenge: "I am actively looking for Summer Internships"
+ currently: "Working with Groww"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you more!</b> :)</em>
 
 ---
