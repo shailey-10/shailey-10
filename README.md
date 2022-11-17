@@ -21,8 +21,9 @@ const Anshum = {
   freameworks | libraries : [React, Redux, Node, Express, Bootstrap, Material UI, GIT],
   Hobbies: ["chess", "badminton"],
   POR'S: {
-                        Web Developer: "Delhi Digital Co",
-                        Member of Technical Staff: "Webloom",
+                        Front End Developer: "Delhi Digital Co",
+                        Fullstack Developer: "Webloom - Swiggy Ph",
+                        SDE - Web: "Groww",
                         Webmaster: "IEESBMUJ",
                         Webmaster: "MarkSoc"
                       },
