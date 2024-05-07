@@ -1,8 +1,8 @@
 <h2> Hi, I'm Anshum Shailey!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif" width="230">
 <p><em> B.E in Computer Science at <a href="https://jaipur.manipal.edu/">Manipal University Jaipur</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> National Level Hackathon Winner <a href="https://skillenza.com/challenge/bengaluru-moving-hackathon">Winner</a><img src="https://media4.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif?cid=790b7611jvg3kjwlatr4u5fg01ob0w3ifnngqgqruyzekghb&rid=giphy.gif&ct=s" width="30"> 
-  </br> Worked with top startups like <a href="https://www.swiggy.com/">Swiggy</a> and <a href="https://groww.in/">Groww</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  </br>Bengaluru Government Certified Tech Traffic Solution<img src="https://media1.giphy.com/media/sT7eMIqUXhxmitU5Xj/giphy.gif?cid=ecf05e47o6l000juyk3z0a11hr71m8nfxz0x0egqwzshx2ph&rid=giphy.gif&ct=s" width="30"> 
+  </br> Worked with top startups like <a href="https://www.swiggy.com/">Swiggy</a>, <a href="https://groww.in/">Groww</a> and <a href="https://quillbot.com/">Quillbot</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  </br>Bengaluru Government Certified Tech Traffic Solution hackathon winner<img src="https://media1.giphy.com/media/sT7eMIqUXhxmitU5Xj/giphy.gif?cid=ecf05e47o6l000juyk3z0a11hr71m8nfxz0x0egqwzshx2ph&rid=giphy.gif&ct=s" width="30"> 
   
   
   
