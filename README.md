@@ -21,13 +21,14 @@ const Anshum = {
   freameworks | libraries : [React, Redux, Node, Express, Bootstrap, Material UI, GIT],
   Hobbies: ["chess", "badminton"],
   POR'S: {
-                        Front End Developer: "Delhi Digital Co",
-                        Fullstack Developer: "Webloom - Swiggy Ph",
+                        SDE: Quillbot
                         SDE - Web: "Groww",
+                        Fullstack Developer: "Webloom - Swiggy Ph",
+                        Front End Developer: "Delhi Digital Co",
                         Webmaster: "IEESBMUJ",
                         Webmaster: "MarkSoc"
                       },
- currently: "Working with Groww"
+ currently: "Working with Quillbot"
 }
 ```
 
